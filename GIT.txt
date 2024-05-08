@@ -1,4 +1,4 @@
-Version Controlling  RAMAN GS WELCOMES YOU ALL
+Version Controlling  RAMAN GS WELCOMES YOU ALL to learn devops john,sathessh
 =======================
 This is the process of maintianing multiple versions of the code
 All the team members uplaod their code(check in) into the remote
